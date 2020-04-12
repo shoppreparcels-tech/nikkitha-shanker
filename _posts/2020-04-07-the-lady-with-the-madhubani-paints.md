@@ -18,11 +18,11 @@ post_date: 2020-04-07 18:57:37
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Today I would like to introduce you to Smt. Asha Jha, a legendary Madhubani virtuoso.<br></p>
+<p>Today I would like to introduce you to Smt. Asha Jha, a legendary Madhubani virtuoso.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Asha Jha Ji &amp; Her Journey:</strong><br></p>
+<p><strong>Asha Jha Ji &amp; Her Journey:</strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:gallery {"ids":[186],"align":"right"} -->
@@ -30,7 +30,7 @@ post_date: 2020-04-07 18:57:37
 <!-- /wp:gallery -->
 
 <!-- wp:paragraph -->
-<p>Smt. Asha Jha is an artist of nationally renowned fame, a mother of five girls, recently, a grandmother, &amp; one of the truest symbols of women empowerment in India. She was a middle-class housewife with a seemingly absurd dream of forever revolutionizing the face of Madhubani.<br></p>
+<p>Smt. Asha Jha is an artist of nationally renowned fame, a mother of five girls, recently, a grandmother, &amp; one of the truest symbols of women empowerment in India. She was a middle-class housewife with a seemingly absurd dream of forever revolutionizing the face of Madhubani.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -42,11 +42,11 @@ post_date: 2020-04-07 18:57:37
 <!-- /wp:gallery -->
 
 <!-- wp:paragraph -->
-<p>Her phenomenal masterpiece ​'Matsya Avatar of Lord Vishnu' won her the prestigious​ National Award from former​ President of India Dr. Pranab Mukherjee in 2013.<br></p>
+<p>Her phenomenal masterpiece ​'Matsya Avatar of Lord Vishnu', a very rare piece of Madhubani Art won her the prestigious​ National Award from former​ President of India Dr. Pranab Mukherjee in 2013.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Madhubani Art &amp; History:</strong><br></p>
+<p><strong>Madhubani Art &amp; History:</strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -68,7 +68,7 @@ post_date: 2020-04-07 18:57:37
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Entrepreneurial Venture - Madhubanipaints</strong>.<strong>com</strong><br></p>
+<p><strong>Entrepreneurial Venture - Madhubanipaints</strong>.<strong>com</strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":195,"width":121,"height":73,"sizeSlug":"large"} -->
@@ -76,11 +76,11 @@ post_date: 2020-04-07 18:57:37
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"left"} -->
-<p class="has-text-align-left">Madhubani, as a brand, is the face of thousands of women. Twenty Five years into the journey and Smt. Asha Jha Ji says “Through my work, I try to symbolize the true relation between the inner divinity and the cosmos”.&nbsp;<br></p>
+<p class="has-text-align-left">Madhubani, as a brand, is the face of thousands of women. Twenty Five years into the journey and Smt. Asha Jha Ji says “Through my work, I try to symbolize the true relation between the inner divinity and the cosmos”. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Alongside her family-like-contingent of more than 200 female artists &amp; craftswomen, she has effectively crafted unique concepts based on expressing love, hope, valor, devotion, fertility, &amp; prosperity through geometric patterns &amp; shapes in the form of human figures, transforming people's perception of the art. Each product is handcrafted to perfection with a unique theme &amp; storyline behind the development of its concept.<br></p>
+<p>Alongside her family-like-contingent of more than 200 female artists &amp; craftswomen, she has effectively crafted unique concepts based on expressing love, hope, valor, devotion, fertility, &amp; prosperity through geometric patterns &amp; shapes in the form of human figures, transforming people's perception of the art. Each product is handcrafted to perfection with a unique theme &amp; storyline behind the development of its concept.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
