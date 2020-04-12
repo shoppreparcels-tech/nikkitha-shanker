@@ -37,8 +37,8 @@ post_date: 2020-04-07 18:57:37
 <p>Through sheer hard work and unmatched vision, she changed the outlandish dream into a living day reality, which reshaped the lives of thousands of unemployed craftswomen. She is being widely regarded as the woman who resurrected Madhubani and turned it into a modern-day extravaganza. While preserving the authenticity of the art has been compromised, she felt the need to take Madhubani to the global platform.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:gallery {"ids":[183,190],"align":"center"} -->
-<figure class="wp-block-gallery aligncenter columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://nikkithashanker.com/wp-content/uploads/2020/04/ASHA-JHA_page-0003-1.png" alt="" data-id="183" data-link="https://nikkithashanker.com/?attachment_id=183" class="wp-image-183"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://nikkithashanker.com/wp-content/uploads/2020/04/ASHA-JHA_page-0004-1-1.png" alt="" data-id="190" data-full-url="https://nikkithashanker.com/wp-content/uploads/2020/04/ASHA-JHA_page-0004-1-1.png" data-link="https://nikkithashanker.com/?attachment_id=190" class="wp-image-190"/></figure></li></ul></figure>
+<!-- wp:gallery {"ids":[203,"190"],"align":"center"} -->
+<figure class="wp-block-gallery aligncenter columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://nikkithashanker.com/wp-content/uploads/2020/04/national-award-madhubani-paint-from-president.png" alt="" data-id="203" data-full-url="https://nikkithashanker.com/wp-content/uploads/2020/04/national-award-madhubani-paint-from-president.png" data-link="https://nikkithashanker.com/2020/04/07/the-lady-with-the-madhubani-paints/national-award-madhubani-paint-from-president/" class="wp-image-203"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://nikkithashanker.com/wp-content/uploads/2020/04/ASHA-JHA_page-0004-1-1.png" alt="" data-id="190" data-link="https://nikkithashanker.com/?attachment_id=190" class="wp-image-190"/></figure></li></ul></figure>
 <!-- /wp:gallery -->
 
 <!-- wp:paragraph -->
