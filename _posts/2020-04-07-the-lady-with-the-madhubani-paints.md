@@ -10,11 +10,11 @@ published: true
 post_date: 2020-04-07 18:57:37
 ---
 <!-- wp:paragraph -->
-<p>ShoppRe was started with the aim is to bring Ethnic Indian products from different parts of India to the Global Platform - making it accessible to people across the globe.<br></p>
+<p><a href="https://www.shoppre.com">ShoppRe</a> was started with the aim is to bring Ethnic Indian products from different parts of India to the Global Platform - making it accessible to people across the globe.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>As we interact with many such Ethnic Sellers, I decided to write a series on some of these Ethnic Indian Sellers.<br></p>
+<p>As we interact with many such Ethnic Sellers, I decided to write a series on some of these Ethnic Indian Sellers.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
