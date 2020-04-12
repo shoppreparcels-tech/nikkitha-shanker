@@ -54,7 +54,7 @@ post_date: 2020-04-07 18:57:37
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"right","id":189,"width":249,"height":341,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="alignright size-large is-resized"><img src="https://nikkithashanker.com/wp-content/uploads/2020/04/MADHUBANIPAINTS-COLLECTION_page-0002-1-min.png" alt="" class="wp-image-189" width="249" height="341"/></figure></div>
+<div class="wp-block-image"><figure class="alignright size-large is-resized"><img src="https://nikkithashanker.com/wp-content/uploads/2020/04/MADHUBANIPAINTS-COLLECTION_page-0002-1-min.png" alt="Krishna-is-standing-on-Sesh-Naag-madhubani-art-from-india" class="wp-image-189" width="249" height="341"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:group -->
@@ -72,11 +72,11 @@ post_date: 2020-04-07 18:57:37
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":195,"width":121,"height":73,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="https://nikkithashanker.com/wp-content/uploads/2020/04/logo-dark-1.png" alt="" class="wp-image-195" width="121" height="73"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="https://nikkithashanker.com/wp-content/uploads/2020/04/logo-dark-1.png" alt="madhubani-paints" class="wp-image-195" width="121" height="73"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"left"} -->
-<p class="has-text-align-left">Madhubani, as a brand, is the face of thousands of women. Twenty Five years into the journey and Smt. Asha Jha Ji says “Through my work, I try to symbolize the true relation between the inner divinity and the cosmos”. </p>
+<p class="has-text-align-left">Madhubani, as a brand, is the face of thousands of women. Twenty Five years into the journey and Smt. Asha Jha Ji says “Through my work, I try to symbolize the true relation between the inner divinity and the cosmos”.&nbsp;</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
