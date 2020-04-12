@@ -64,7 +64,7 @@ post_date: 2020-04-07 18:57:37
 <!-- /wp:group -->
 
 <!-- wp:paragraph -->
-<p>Interestingly, Mithila is a matrilineal society where mothers pass on their inheritance to their daughters. Girls are encouraged to paint right from their childhood. </p>
+<p>Interestingly, Mithila is a matrilineal society where mothers pass on their inheritance to their daughters. Girls are encouraged to paint right from their childhood.&nbsp;</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -76,7 +76,7 @@ post_date: 2020-04-07 18:57:37
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"left"} -->
-<p class="has-text-align-left">Madhubani, as a brand, is the face of thousands of women. Twenty Five years into the journey and Smt. Asha Jha Ji says “Through my work, I try to symbolize the true relation between the inner divinity and the cosmos”. <br></p>
+<p class="has-text-align-left">Madhubani, as a brand, is the face of thousands of women. Twenty Five years into the journey and Smt. Asha Jha Ji says “Through my work, I try to symbolize the true relation between the inner divinity and the cosmos”.&nbsp;<br></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -101,4 +101,12 @@ post_date: 2020-04-07 18:57:37
 
 <!-- wp:paragraph {"customFontSize":19} -->
 <p style="font-size:19px"><em>Smt. Asha Jha Ji also conducts workshops globally. For holding workshops please write to nikkitha@shoppre.com.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"customFontSize":14} -->
+<p style="font-size:14px">Some other details related to this are:<br><a href="https://indianexpress.com/photos/lifestyle-gallery/mithila-artist-transforms-madhubani-railway-station-with-traditional-madhubani-paintings-for-free-4930059/">https://indianexpress.com/photos/lifestyle-gallery/mithila-artist-transforms-madhubani-railway-station-with-traditional-madhubani-paintings-for-free-4930059/</a><br><a href="https://www.ndtv.com/india-news/pm-narendra-modi-gifts-madhubani-painting-to-hannover-mayor-754415">https://www.ndtv.com/india-news/pm-narendra-modi-gifts-madhubani-painting-to-hannover-mayor-754415</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"customFontSize":13} -->
+<p style="font-size:13px">#madhubanipaints #madhubaniarts #madhubanipaintsfromIndia #mithilaarts #madhubanisarees #madhubanifromindia #madhubanistoles #madhubanihomedecor #indianethnicsellerseries #indianethnicgoodsfromindia #madhubanishoppre #shipmadhubanipaintsfromindiatousa #madhubanipaintedsarees #madhubanisilksaree #handpaintedmadhubani&nbsp;#madhubanisareesonline</p>
 <!-- /wp:paragraph -->
