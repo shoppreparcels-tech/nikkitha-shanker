@@ -18,7 +18,7 @@ post_date: 2020-08-27 17:12:14
 <!-- /wp:list -->
 
 <!-- wp:heading {"level":3} -->
-<h3 id="outside-india"><a href="https://expeditions.shoppre.com/#outside-india">#</a>Outside India</h3>
+<h3 id="outside-india">Outside India</h3>
 <!-- /wp:heading -->
 
 <!-- wp:list -->
