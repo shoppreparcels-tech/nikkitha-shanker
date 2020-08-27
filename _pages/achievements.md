@@ -9,16 +9,16 @@ permalink: >
 published: true
 post_date: 2020-08-27 17:12:14
 ---
-<!-- wp:heading {"level":3} -->
-<h3 id="inside-india">Inside India</h3>
+<!-- wp:heading -->
+<h2 id="inside-india">Inside India</h2>
 <!-- /wp:heading -->
 
 <!-- wp:list -->
 <ul><li>5000+ Indian sellers got globalised their business presence with ShoppRe since 2016.</li><li>1000+ Indian sellers every month get revenues using ShoppRe.</li></ul>
 <!-- /wp:list -->
 
-<!-- wp:heading {"level":3} -->
-<h3 id="outside-india">Outside India</h3>
+<!-- wp:heading -->
+<h2 id="outside-india">Outside India</h2>
 <!-- /wp:heading -->
 
 <!-- wp:list -->
