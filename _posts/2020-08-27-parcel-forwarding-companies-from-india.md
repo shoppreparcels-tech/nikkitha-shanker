@@ -12,5 +12,13 @@ published: true
 post_date: 2020-08-27 09:29:10
 ---
 <!-- wp:list -->
-<ul><li>parcl.com</li><li>shoppre parcels</li><li><a href="http://fastwayindia.com/want-something-courier-from-india/" target="_blank" rel="noreferrer noopener" aria-label="fastway (opens in a new tab)">fastway</a></li><li>indianmailbox</li><li>myway2india</li><li></li></ul>
+<ul><li>parcl.com</li><li>shoppre parcels</li><li><a rel="noreferrer noopener" aria-label="fastway (opens in a new tab)" href="http://fastwayindia.com/want-something-courier-from-india/" target="_blank">fastway</a></li><li>indianmailbox</li><li>myway2india</li></ul>
 <!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.quora.com/Will-Flipkart-do-international-shipping/answer/Nikkitha-Shanker-3?__filter__=20&amp;__nsrc__=1&amp;__sncid__=7415853673&amp;__snid3__=11157295519">https://www.quora.com/Will-Flipkart-do-international-shipping/answer/Nikkitha-Shanker-3?__filter__=20&amp;__nsrc__=1&amp;__sncid__=7415853673&amp;__snid3__=11157295519</a></p>
+<!-- /wp:paragraph -->
