@@ -1,6 +1,8 @@
 ---
 ID: 215
-post_title: Parcel Forwarding companies from India
+post_title: >
+  Eight Parcel Forwarding companies from
+  India
 author: Nikkitha Shanker
 post_excerpt: ""
 layout: post
